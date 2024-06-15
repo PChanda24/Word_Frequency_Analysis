@@ -15,7 +15,7 @@ The project is divided into two main tasks:
 ### Task 2: Twitter Data Analysis (2017-2022)
 **Objective: Analyze word frequencies in Elon Musk's tweets and apply network and statistical analyses.**
 **Steps involved and their significance:**
-1. Compute word frequencies for each year, exclusind stop words.
+1. Compute word frequencies for each year, excluding stop words.
 2. Identify the top 10 words for each year by word frequency, showcasing key topics and trends in Elon Musk's tweets.
 3. Plot histograms of word frequencies for each year for visual comparison across years.
 4. Apply Zipf’s law and generate log-log plots of word frequencies and rank for each year, demonstrating the distribution and ranking of word frequencies.
